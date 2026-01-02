@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハクチューアラモード",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2026-01-02T15:53:34.444879Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハクチューアラモード",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_ハクチューアラモード_みらくらぱーく!.txt"
+    }
+  ]
+}
